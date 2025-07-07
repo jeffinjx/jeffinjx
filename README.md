@@ -1,4 +1,4 @@
-### I love programming because I can understand it and it can understand me.
+### I love programming because I get to understand it and it gets to understand me.
 
 <!--
 **jeffinjx/jeffinjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
